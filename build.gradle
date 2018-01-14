@@ -22,7 +22,7 @@ repositories {
 
 task print {
     doLast {
-      println 'github push test complete'
+      println 'github push and slack noti test complete'
     }
 }
   
